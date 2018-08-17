@@ -6,13 +6,12 @@ import { Component, Input, Output, EventEmitter } from '@angular/core';
   styleUrls: ['./change-background.component.css']
 })
 export class ChangeBackgroundComponent {
-  @Output() clickYellow = new EventEmitter();
-  @Output() clickWhite = new EventEmitter();
+  @Output() clickColor = new EventEmitter();
 
   yellowButtonClicked(){
-     this.clickYellow.emit("yellow");
+    this.clickColor.emit("yellow");
   }
   whiteButtonClicked(){
-    this.clickWhite.emit("white");
+    this.clickColor.emit("white");
   }
 }

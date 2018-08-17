@@ -1,4 +1,5 @@
-<body [class]="bgColor()">
-  <app-change-background></app-change-background>
+<body class = {{backgroundColor}}>
+  <nav><app-top-bar></app-top-bar></nav>
+  <app-change-background (clickColor)="bgColor($event)"></app-change-background>
   <app-main-panel></app-main-panel>
 </body>

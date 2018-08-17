@@ -1,16 +1,23 @@
 .main-body{
+  position:absolute;
   top:33%;
   width:830px;
   min-height: 240px;
-  /* margin: -58px auto auto -415px;
-    margin-top: -58px;
-    margin-right: auto;
-    margin-bottom: auto;
-    margin-left: -415px; */
   border-radius: 7px;
-  left: 50%;
+  margin-left: 28%;
+  background-color: white;
   box-shadow: none;
+
+}
+.logo-div{
+  padding-top: 30px;
+  width:60%;
+  margin: 0 auto;
 }
 #logo{
   width:100%;
+}
+.search-div{
+  padding-left: 40px;
+  padding-right: 40px;
 }
