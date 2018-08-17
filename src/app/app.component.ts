@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input, Output } from '@angular/core';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +6,13 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  bgColor(clickedColor){
+    if(clickedColor === "yellow"){
+      return "yellow-bg";
+    } else if(clickedColor === "white"){
+      return "white-bg";
+    } else {
+      return "";
+    }
+  }
 }
