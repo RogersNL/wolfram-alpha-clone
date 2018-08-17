@@ -20,7 +20,6 @@ _Specs:_
   _In Node.js:_
 
   \> npm install;  
-  \> npm run build;  
 
 ## Development server
 
