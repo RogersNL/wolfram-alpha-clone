@@ -1,0 +1,51 @@
+.home {
+  max-width: 100%;
+  height: 44px;
+  background-color: white;
+  border-bottom: 1px solid #ddd;
+}
+.menu-list{
+  list-style: none;
+  float:right;
+  max-height: 100%;
+  margin-top: 6px;
+}
+li{
+  display: inline-block;
+  margin-right: 20px;
+  max-height: 100%;
+}
+.gear {
+  height: 25px;
+  margin-bottom: 4px;
+}
+button {
+  max-height: 100%;
+  background-color: #fff;
+  color: #888;
+  border: none;
+}
+button:focus {
+  outline: 0;
+}
+button:hover {
+  border-color: #666;
+  color: #666;
+  cursor: pointer;
+}
+.sign-in{
+  border: 2px solid #ff7e00;
+  color: #ff7e00;
+  border-radius: 2px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+.rotate-90 {
+  transform: rotate(270deg);
+  display:inline-block;
+}
+.rotate-45 {
+  transform: rotate(45deg);
+  display: inline-block;
+  font-size: 16px;
+}
