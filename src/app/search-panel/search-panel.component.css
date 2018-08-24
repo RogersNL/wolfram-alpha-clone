@@ -1,4 +1,9 @@
 .form-control {
   border-color: #ff9339 !important;
   box-shadow: 0 0 0 3px #ffc230 !important;
+  width: 700px;
+}
+
+form {
+  text-align: center;
 }

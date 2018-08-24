@@ -10,3 +10,10 @@ app-footer {
   width: 100%;
   text-align: center;
 }
+app-main-panel {
+  /* position: fixed; */
+  left: 0;
+  top:36px;
+  width: 100%;
+  text-align: center;
+}
