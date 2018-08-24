@@ -11,3 +11,7 @@ a:hover {
   color: #666;
   text-decoration: none;
 }
+.home-footer{
+  padding-top: 10px;
+  border-top:1px solid #ddd;
+}

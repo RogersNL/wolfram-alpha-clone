@@ -8,6 +8,7 @@ import { TopBarComponent } from './top-bar/top-bar.component';
 import { FooterComponent } from './footer/footer.component';
 import { MainPanelComponent } from './main-panel/main-panel.component';
 import { ChangeBackgroundComponent } from './change-background/change-background.component';
+import { ExamplesComponent } from './examples/examples.component';
 
 
 @NgModule({
@@ -17,7 +18,8 @@ import { ChangeBackgroundComponent } from './change-background/change-background
     TopBarComponent,
     FooterComponent,
     MainPanelComponent,
-    ChangeBackgroundComponent
+    ChangeBackgroundComponent,
+    ExamplesComponent
   ],
   imports: [
     BrowserModule

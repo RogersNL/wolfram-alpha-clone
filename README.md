@@ -11,6 +11,7 @@ _Specs:_
 1. _Create search bar section with basic css._
 2. _Create top toolbar._
 3. _Create bottom toolbar._
+4. _Create menu buttons and save links to firebase._
 
 ## Setup/Installation Requirements
 
