@@ -1,3 +1,12 @@
 body{
   font:400 13.3333px Arial;
+  height: 100%;
+
+}
+app-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
 }
