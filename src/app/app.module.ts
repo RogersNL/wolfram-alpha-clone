@@ -9,6 +9,7 @@ import { FooterComponent } from './footer/footer.component';
 import { MainPanelComponent } from './main-panel/main-panel.component';
 import { ChangeBackgroundComponent } from './change-background/change-background.component';
 import { ExamplesComponent } from './examples/examples.component';
+import { ExampleDetailsComponent } from './example-details/example-details.component';
 
 
 @NgModule({
@@ -19,7 +20,8 @@ import { ExamplesComponent } from './examples/examples.component';
     FooterComponent,
     MainPanelComponent,
     ChangeBackgroundComponent,
-    ExamplesComponent
+    ExamplesComponent,
+    ExampleDetailsComponent
   ],
   imports: [
     BrowserModule

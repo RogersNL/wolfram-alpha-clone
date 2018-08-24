@@ -1,0 +1,132 @@
+{ "examples": [{
+    "category": "Mathematics",
+    "item": "Step-by-Step Solutions",
+    "description": "Solutions for over 60 topics within math, chemistry and physics.",
+  }, {
+    "category": "Mathematics",
+    "item": "Elementary Math",
+    "description":,
+  }, {
+    "category": "Mathematics",
+    "item": "Algebra",
+    "description":,
+  }, {
+    "category": "Mathematics",
+    "item": "Plotting & Graphics",
+    "description":,
+  }, {
+    "category": "Mathematics",
+    "item": "Calculus & Analysis",
+    "description":,
+  }, {
+    "category": "Mathematics",
+    "item": "Geometry",
+    "description":,
+  }, {
+    "category": "Mathematics",
+    "item": "Differential Equations",
+    "description":,
+  }, {
+    "category": "Mathematics",
+    "item": "Statistics",
+    "description":,
+  }, {
+    "category": "Science & Technology",
+    "item": "Units & Measures",
+    "description":,
+  }, {
+    "category": "Science & Technology",
+    "item": "Physics",
+    "description":,
+  }, {
+    "category": "Science & Technology",
+    "item": "Chemistry",
+    "description":,
+  }, {
+    "category": "Science & Technology",
+    "item": "Engineering",
+    "description":,
+  }, {
+    "category": "Science & Technology",
+    "item": "Computational Sciences",
+    "description":,
+  }, {
+    "category": "Science & Technology",
+    "item": "Earth Sciences",
+    "description":,
+  }, {
+    "category": "Science & Technology",
+    "item": "Materials",
+    "description":,
+  }, {
+    "category": "Science & Technology",
+    "item": "Transportation",
+    "description":,
+  }, {
+    "category": "Society & Culture",
+    "item": "People",
+    "description":,
+  }, {
+    "category": "Society & Culture",
+    "item": "Arts & Media",
+    "description":,
+  }, {
+    "category": "Society & Culture",
+    "item":,
+    "description":,
+  }, {
+    "category": "Society & Culture",
+    "item":,
+    "description":,
+  }, {
+    "category": "Society & Culture",
+    "item":,
+    "description":,
+  }, {
+    "category": "Society & Culture",
+    "item":,
+    "description":,
+  }, {
+    "category": "Society & Culture",
+    "item":,
+    "description":,
+  }, {
+    "category": "Society & Culture",
+    "item":,
+    "description":,
+  }, {
+    "category": "Everyday Life",
+    "item":,
+    "description":,
+  }, {
+    "category": "Everyday Life",
+    "item":,
+    "description":,
+  }, {
+    "category": "Everyday Life",
+    "item":,
+    "description":,
+  }, {
+    "category": "Everyday Life",
+    "item":,
+    "description":,
+  }, {
+    "category": "Everyday Life",
+    "item":,
+    "description":,
+  }, {
+    "category": "Everyday Life",
+    "item":,
+    "description":,
+  }, {
+    "category": "Everyday Life",
+    "item":,
+    "description":,
+  }, {
+    "category": "Everyday Life",
+    "item":,
+    "description":,
+  }, {
+
+  }]
+}
