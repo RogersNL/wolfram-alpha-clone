@@ -1,5 +1,9 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { masterFirebaseConfig } from './api-keys';
+import { AngularFireModule } from 'angularfire2';
+import { AngularFireDatabaseModule } from 'angularfire2/database';
+import { routing } from './app.routing';
 
 
 import { AppComponent } from './app.component';
@@ -11,6 +15,12 @@ import { ChangeBackgroundComponent } from './change-background/change-background
 import { ExamplesComponent } from './examples/examples.component';
 import { ExampleDetailsComponent } from './example-details/example-details.component';
 
+export const firebaseConfig = {
+  apiKey: masterFirebaseConfig.apiKey,
+  authDomain: masterFirebaseConfig.authDomain,
+  databaseURL: masterFirebaseConfig.databaseURL,
+  storageBucket: masterFirebaseConfig.storageBucket
+};
 
 @NgModule({
   declarations: [
@@ -24,7 +34,12 @@ import { ExampleDetailsComponent } from './example-details/example-details.compo
     ExampleDetailsComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    // FormsModule,
+    // HttpModule,
+    routing,
+    AngularFireModule.initializeApp(firebaseConfig),
+    AngularFireDatabaseModule
   ],
   providers: [],
   bootstrap: [AppComponent]

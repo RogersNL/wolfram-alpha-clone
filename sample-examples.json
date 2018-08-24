@@ -2,130 +2,162 @@
     "category": "Mathematics",
     "item": "Step-by-Step Solutions",
     "description": "Solutions for over 60 topics within math, chemistry and physics.",
+    "image": "https://gyazo.com/6551335f730db825d4fb1358b42f77f3"
   }, {
     "category": "Mathematics",
     "item": "Elementary Math",
-    "description":,
+    "description": "In addition to being a powerful computation engine for higher-level knowledge, Wolfram|Alpha can also solve elementary math problems, such as arithmetic, converting fractions and math word problems.",
+    "image": "https://gyazo.com/892e282753ae26bd66f373c870e11caa"
   }, {
     "category": "Mathematics",
     "item": "Algebra",
-    "description":,
+    "description": "Algebra is one of the core subjects of mathematics. Algebra consists of the study of variables within number systems, along with operations that act on numbers and symbols. Wolfram|Alpha is a tremendous resource for solving equations; exploring polynomials; and studying fields, groups, vectors and matrices.",
+    "image": "https://gyazo.com/e3a3efc8b1114673a4ac5e7e87de6583"
   }, {
     "category": "Mathematics",
     "item": "Plotting & Graphics",
-    "description":,
+    "description": "Plotting and graphing are methods of visualizing the behavior of mathematical functions. Use Wolfram|Alpha to generate plots of functions, equations and inequalities in one, two and three dimensions. Gain additional perspective by studying polar plots, parametric plots, contour plots, region plots and many other types of visualizations of the functions and equations of interest to you.",
+    "image": "https://gyazo.com/c4d52901e9df5c464636a0df0a15a749"
   }, {
     "category": "Mathematics",
     "item": "Calculus & Analysis",
-    "description":,
+    "description": "Calculus is the branch of mathematics studying the rate of change of quantities and the length, area and volume of objects. With the ability to answer questions from single and multivariable calculus, Wolfram|Alpha is a great tool for computing limits, derivatives and integrals and their applications, including tangent lines, extrema, arc length and much more.",
+    "image": "https://gyazo.com/515e621469f1cbe6f1dc8f7d9f46fc69"
   }, {
     "category": "Mathematics",
     "item": "Geometry",
-    "description":,
+    "description": "Geometry is the field of mathematics that studies properties of figures and the underlying space. Wolfram|Alpha has the ability to analyze and compute with geometric figures of different dimensions, including polygons and polyhedra. It can also solve many applied problems using geometry, like tilings or packing problems. Additionally, Wolfram|Alpha can tell you about more advanced areas such as analytic geometry and topology.",
+    "image": "https://gyazo.com/dfa1ec1cef106ca14c549d0e13badb4b"
   }, {
     "category": "Mathematics",
     "item": "Differential Equations",
-    "description":,
+    "description": "A differential equation is an equation involving a function and its derivatives. It can be referred to as an ordinary differential equation (ODE) or a partial differential equation (PDE) depending on whether or not partial derivatives are involved. Wolfram|Alpha can solve many problems under this important branch of mathematics, including solving ODEs, finding an ODE a function satisfies and solving an ODE using a slew of numerical methods.",
+    "image": "https://gyazo.com/8eb38a2e279dfaf43439bbcf1d1c96ce"
   }, {
     "category": "Mathematics",
     "item": "Statistics",
-    "description":,
+    "description": "Statistics is the branch of mathematics involved in the collection, analysis and exposition of data. Given a set of data, Wolfram|Alpha is instantaneously able to compute all manner of descriptive and inferential statistical properties and to produce regression analyses and equation fitting. Wolfram|Alpha's broad computational knowledge of statistical methods allows you to analyze, interpret and visualize your data quickly and accurately.",
+    "image": "https://gyazo.com/5278ce41f5467ab2af2771bc23c30c5f"
   }, {
     "category": "Science & Technology",
     "item": "Units & Measures",
-    "description":,
+    "description": "Wolfram|Alpha finds and converts values for a wide variety of units, measures and scales. Find information and convert between standard industrial measures, scales used in science and everyday life and many others.",
+    "image": "https://gyazo.com/b28f5fcaa4620e9f42699aa0c3e8ba7d"
   }, {
     "category": "Science & Technology",
     "item": "Physics",
-    "description":,
+    "description": "Physics studies features of the universe, ranging from natural to manmade phenomena. With Wolfram|Alpha, you can explore data about phenomena in the areas of quantum mechanics, nuclear and particle physics, thermodynamics and Newtonian mechanics. Wolfram|Alpha also knows a variety of physical formulas and constants. With all of this built-in data and interactive calculators, it is easy to get answers to your physics questions, either for homework or general curiosity.",
+    "image": "https://gyazo.com/98bf645975feeb9eab78671f5deb5b52"
   }, {
     "category": "Science & Technology",
     "item": "Chemistry",
-    "description":,
+    "description": "Chemistry is the study of matter, from individual atoms and ions to large biomolecules. With Wolfram|Alpha, you can explore data about chemical compounds, the reactions they undergo, solubility and chemical graph theory. It also has information about chemical quantities, unit conversion, molarity calculations and stoichiometry. Use Wolfram|Alpha to answer your chemistry questions, whether they are for homework or general curiosity.",
+    "image": "https://gyazo.com/9ea2eeb9b162f08ffbdd318849869ac8"
   }, {
     "category": "Science & Technology",
     "item": "Engineering",
-    "description":,
+    "description": "Engineering is a discipline that deals with the design, construction, analysis and maintenance of structures, machines and systems using scientific methods, mathematical knowledge and physical principles. Engineering encompasses many fields and disciplines, ranging from mechanical and structural to chemical and aerospace. Wolfram|Alpha allows you to explore various facets of engineering, including computing formulas and constants for electricity, materials science, aerodynamics and more.",
+    "image": "https://gyazo.com/3d929711ea0d8140dd76d5a6967178af"
   }, {
     "category": "Science & Technology",
     "item": "Computational Sciences",
-    "description":,
+    "description": "Search for computational information ranging from P and NP over DTIME to cellular automata. Wolfram|Alpha offers data from the most simple to the advanced in computational science. Detailed information is available about complexity classes, fractals, data, hashing, Turing machine computational models and many other models and schemes of computer science.",
+    "image": "https://gyazo.com/a4ec5c7062ae64c56933fa6c09bdd343"
   }, {
     "category": "Science & Technology",
     "item": "Earth Sciences",
-    "description":,
+    "description": "Earth science is the collection of domains that involve the study of Earth and its atmosphere. It includes environmental disciplines and concepts such as geology, geodesy, oceanography, atmospheric studies and climatology.",
+    "image": "https://gyazo.com/3a1d1037f522df1eab11bf42be205167"
   }, {
     "category": "Science & Technology",
     "item": "Materials",
-    "description":,
+    "description": "Wolfram|Alpha contains a large volume of data on materials, both manmade and natural, including woods, metals, minerals, plastics and more. Many of these materials have important applications in industry and construction. Use Wolfram|Alpha to learn about the physical, thermal, mechanical, optical and processing properties of materials and compare materials by common name or manufacturer specification.",
+    "image": "https://gyazo.com/ddf1e3be4af061a0d1befabd6c648bd1"
   }, {
     "category": "Science & Technology",
     "item": "Transportation",
-    "description":,
+    "description": "Explore transportation, which describes the movement of cargo or passengers to and from a location or locations. Use Wolfram|Alpha to investigate a diverse set of transportation concepts, which includes transportation centers, pathways and formulas.",
+    "image": "https://gyazo.com/19bb6516b2c89a48812c0910bebabd52"
   }, {
     "category": "Society & Culture",
     "item": "People",
-    "description":,
+    "description": "With a wealth of information about hundreds of thousands of notable people throughout history, Wolfram|Alpha can compute answers to countless complex questions. Find out what famous people share your birthday or hometown, compute movie stars' ages when their most famous films were released, look up Nobel Prize and Academy Award winners, compare the net worth of the world's richest people and much more.",
+    "image": "https://gyazo.com/0526b4919fe99513b2aa7c545ea5bfd4"
   }, {
     "category": "Society & Culture",
     "item": "Arts & Media",
-    "description":,
+    "description": "From ancient myths to modern box office blockbusters and chart-topping songs, Wolfram|Alpha has computable data on works of art from every genre and style. Explore albums by your favorite musical artists, find facts about comic superheroes, compare dimensions and materials used in famous sculptures and paintings or look up movies by decade, director, cast and more.",
+    "image": "https://gyazo.com/b30ed57764a9feaa08ff88b8f79ff38f"
   }, {
     "category": "Society & Culture",
-    "item":,
-    "description":,
+    "item": "Dates & Times",
+    "description": "With comprehensive information about calendar systems, time zones, historical periods, notable recurring events and more, Wolfram|Alpha is a powerful assistant for questions about dates and times at school, business or home. Get detailed scientific information about ancient geological eras; count down to holidays or other significant events; convert between time zones, calendars and time formats; compute differences between dates or times; or explore useful and fun information about dates, from historical events to corresponding birthstones.",
+    "image": "https://gyazo.com/bc96622820a2c4a492f2f93d321dcd86"
   }, {
     "category": "Society & Culture",
-    "item":,
-    "description":,
+    "item": "Words & Linguistics",
+    "description": "Whether you're wanting to learn more about languages of the world or find the perfect word to use in Scrabble®, Wolfram|Alpha provides computational insights into how we communicate. In addition to dictionary-style information for tens of thousands of English words, Wolfram|Alpha contains linguistic data for thousands of languages, character encodings and even emoticons. Use Wolfram|Alpha to find the meaning of a word, translate a word into other languages, discover how frequently a word appeared in classic literature and much more.",
+    "image": "https://gyazo.com/328d477bd827ab1bd2f4fcbb6327ccb6"
   }, {
     "category": "Society & Culture",
-    "item":,
-    "description":,
+    "item": "Money & Finance",
+    "description": "Utilize the computational power of Wolfram|Alpha to track monetary trends, check up-to-date stock quotes and even access historical market data. Or, employ Wolfram|Alpha’s sophisticated financial tools and calculators to help you manage your personal finances.",
+    "image": "https://gyazo.com/b72221e0dc3a146956754bd3b24fa8cd"
   }, {
     "category": "Society & Culture",
-    "item":,
-    "description":,
+    "item": "Food & Nutrition",
+    "description": "Food and nutrition is an integral part of everyday life. With detailed nutritional data on thousands of foods and knowledge of dietary guidelines, Wolfram|Alpha can be used to plan healthy meals and generate custom nutrition labels and detailed analyses of nutrients in thousands of common and brand-name foods. Cooking times and meal preparation data can be used to plan meals accurately.",
+    "image": "https://gyazo.com/d81a10f01f94984bc3f0e7c4452c9135"
   }, {
     "category": "Society & Culture",
-    "item":,
-    "description":,
+    "item": "Political Geography",
+    "description": "Wolfram|Alpha contains extensive information about the geography and demographics of countries, administrative divisions, cities, school districts and more. Find the land area of Oregon, per capita income in Boston or the GDP of Russia. Determine the congressional district for Denver or find school districts in New York.",
+    "image": "https://gyazo.com/4b2b4c2fc8948b20ec580e863828d139"
   }, {
     "category": "Society & Culture",
-    "item":,
-    "description":,
+    "item": "History",
+    "description": "With comprehensive data about people, places and events throughout history, Wolfram|Alpha can compute answers to countless complex questions about the past. Generate custom timelines of historical periods and notable events, convert numbers between ancient number systems, compute the changing value of money over time or explore and compare facts about inventions, people, military conflicts and more.",
+    "image": "https://gyazo.com/9ee42ab52da92facff1f12e1baa3384c"
   }, {
     "category": "Everyday Life",
-    "item":,
-    "description":,
+    "item": "Personal Health",
+    "description": "With deep knowledge about pop culture, personal finance, nutrition, health and countless other topics, Wolfram|Alpha can answer complex factual questions at home, at school or in the office. Look up Oscar winners, compute nutritional values for meals, keep tabs on your stock portfolio, check the weather or convert recipe measurements—Wolfram|Alpha's powerful algorithms and massive knowledgebase can help with everyday tasks from cooking to homework to changing a tire. When work is over, turn to Wolfram|Alpha to answer questions about books, movies and television shows; analyze personal health and exercise; or just tell a joke.",
+    "image": "https://gyazo.com/08d68d589a6ee3e97462ea50f4c850f2"
   }, {
     "category": "Everyday Life",
-    "item":,
-    "description":,
+    "item": "Personal Finance",
+    "description": "With deep knowledge about pop culture, personal finance, nutrition, health and countless other topics, Wolfram|Alpha can answer complex factual questions at home, at school or in the office. Look up Oscar winners, compute nutritional values for meals, keep tabs on your stock portfolio, check the weather or convert recipe measurements—Wolfram|Alpha's powerful algorithms and massive knowledgebase can help with everyday tasks from cooking to homework to changing a tire. When work is over, turn to Wolfram|Alpha to answer questions about books, movies and television shows; analyze personal health and exercise; or just tell a joke.",
+    "image": "https://gyazo.com/fd2b3f5fb93ab4914d7a873aab49b56e"
   }, {
     "category": "Everyday Life",
-    "item":,
-    "description":,
+    "item": "Surprises",
+    "description": "Let Wolfram|Alpha surprise you with countless fun facts, features and functions, from jokes and riddles to instant image transformations. Trade pop-culture references with Wolfram|Alpha, jog your memory about classic tongue twisters or nursery rhymes, see your favorite celebrities rendered as complex mathematical curves or explore wild formulas for calculating everything from warp speed to the shaking frequency of a wet dog.",
+    "image": "https://gyazo.com/657aa546990513681bc8ede98b73debd"
   }, {
     "category": "Everyday Life",
-    "item":,
-    "description":,
+    "item": "Entertainment",
+    "description": "With deep knowledge about pop culture, personal finance, nutrition, health and countless other topics, Wolfram|Alpha can answer complex factual questions at home, at school or in the office. Look up Oscar winners, compute nutritional values for meals, keep tabs on your stock portfolio, check the weather or convert recipe measurements—Wolfram|Alpha's powerful algorithms and massive knowledgebase can help with everyday tasks from cooking to homework to changing a tire. When work is over, turn to Wolfram|Alpha to answer questions about books, movies and television shows; analyze personal health and exercise; or just tell a joke.",
+    "image": "https://gyazo.com/5c9eb6f07d929fd312eb956fe75b26a5"
   }, {
     "category": "Everyday Life",
-    "item":,
-    "description":,
+    "item": "Household Science",
+    "description": "With deep knowledge about pop culture, personal finance, nutrition, health and countless other topics, Wolfram|Alpha can answer complex factual questions at home, at school or in the office. Look up Oscar winners, compute nutritional values for meals, keep tabs on your stock portfolio, check the weather or convert recipe measurements—Wolfram|Alpha's powerful algorithms and massive knowledgebase can help with everyday tasks from cooking to homework to changing a tire. When work is over, turn to Wolfram|Alpha to answer questions about books, movies and television shows; analyze personal health and exercise; or just tell a joke.",
+    "image": "https://gyazo.com/babfa401f56d4cb29d4e060ebad56d61"
   }, {
     "category": "Everyday Life",
-    "item":,
-    "description":,
+    "item": "Household Math",
+    "description": "With deep knowledge about pop culture, personal finance, nutrition, health and countless other topics, Wolfram|Alpha can answer complex factual questions at home, at school or in the office. Look up Oscar winners, compute nutritional values for meals, keep tabs on your stock portfolio, check the weather or convert recipe measurements—Wolfram|Alpha's powerful algorithms and massive knowledgebase can help with everyday tasks from cooking to homework to changing a tire. When work is over, turn to Wolfram|Alpha to answer questions about books, movies and television shows; analyze personal health and exercise; or just tell a joke.",
+    "image": "https://gyazo.com/31c037e4c24dcbce26a19001b153d42e"
   }, {
     "category": "Everyday Life",
-    "item":,
-    "description":,
+    "item": "Hobbies",
+    "description": "With deep knowledge about pop culture, personal finance, nutrition, health and countless other topics, Wolfram|Alpha can answer complex factual questions at home, at school or in the office. Look up Oscar winners, compute nutritional values for meals, keep tabs on your stock portfolio, check the weather or convert recipe measurements—Wolfram|Alpha's powerful algorithms and massive knowledgebase can help with everyday tasks from cooking to homework to changing a tire. When work is over, turn to Wolfram|Alpha to answer questions about books, movies and television shows; analyze personal health and exercise; or just tell a joke.",
+    "image": ""
   }, {
     "category": "Everyday Life",
-    "item":,
-    "description":,
+    "item": "Today's World",
+    "description": "With deep knowledge about pop culture, personal finance, nutrition, health and countless other topics, Wolfram|Alpha can answer complex factual questions at home, at school or in the office. Look up Oscar winners, compute nutritional values for meals, keep tabs on your stock portfolio, check the weather or convert recipe measurements—Wolfram|Alpha's powerful algorithms and massive knowledgebase can help with everyday tasks from cooking to homework to changing a tire. When work is over, turn to Wolfram|Alpha to answer questions about books, movies and television shows; analyze personal health and exercise; or just tell a joke.",
+    "image": "https://gyazo.com/c2f7990c3028b5cd7bbf577db3858222"
   }, {
 
   }]
